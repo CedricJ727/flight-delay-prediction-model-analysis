@@ -16,7 +16,7 @@ Scope: Historical flight performance data aggregated to daily average delays
 
 Note: Due to file size, the raw dataset is not included.
 
-Link: Kaggle Flight Delays Dataset
+Link: https://www.kaggle.com/datasets/usdot/flight-delays
 
 Methodology
 
