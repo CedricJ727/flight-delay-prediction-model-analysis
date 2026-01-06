@@ -1,5 +1,9 @@
 # flight-delay-prediction-model-analysis
 Flight Delay Prediction: Model Comparison Study
+
+**Note:** The notebook uses a subset of the full flight delay dataset (sample_flights.csv) for demonstration purposes.  
+R² values and other metrics will differ from the full dataset, but the workflow, feature engineering, and model evaluation logic remain accurate.
+
 Project Overview
 
 This project analyzes U.S. flight delay data to evaluate whether daily average flight delays can be accurately predicted, and whether a complex time-series model (Facebook Prophet) outperforms a simpler Linear Regression approach.
